@@ -1,0 +1,18 @@
+#bloco1 {
+    background-color: #FFF;
+}
+
+#bloco2 {
+    background-color: #AAA;
+}
+
+#bloco3 {
+    background-color: #666;
+}
+
+.estilo {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+}
+

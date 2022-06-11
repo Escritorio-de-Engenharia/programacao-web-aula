@@ -1,0 +1,15 @@
+body {
+    background: rgb(109, 109, 109);
+}
+
+p {
+    color: rgb(58, 51, 129);
+}
+
+#zenzao {
+    color: rgb(255, 0, 0);
+}
+
+.lorem {
+    color: rgb(0, 255, 0);
+}
